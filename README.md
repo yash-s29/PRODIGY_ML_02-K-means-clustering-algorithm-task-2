@@ -35,9 +35,13 @@ Understanding customer behavior is crucial for businesses. This project uses clu
 The dataset used for this project is the Mall Customers dataset, which contains the following columns:
 
 -**CustomerID:** Unique ID assigned to the customer
+
 -**Gender:** Gender of the customer (Male/Female)
+
 -**Age:** Age of the customer
+
 -**Annual Income (k$):** Annual income of the customer (in thousands)
+
 -**Spending Score (1-100):** Score assigned by the mall based on customer behavior and spending nature
 
 # Methodology
